@@ -24,3 +24,27 @@ nav_order: 4
 <div class="caption">
     The top of The Wall in Rivulets timeline, I liked the colour scheme of the sky so I wanted to try drawing it.
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mamino4.jpg" title="Rain World OC Mamino" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Hey look another Mamino drawing!!
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/saintAscension.jpg" title="Rain World saint ascension" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    I was attempting to draw all the Ascension moments most of them looked pretty crap, Saint's one however was decent.
+</div>
+
+
+
+
+
+
