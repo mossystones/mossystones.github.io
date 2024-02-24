@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /skills/
+permalink: /repositories/
 title: Rain World 
 description:  Rain World Art 
 nav: true
