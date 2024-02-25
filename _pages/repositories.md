@@ -40,7 +40,7 @@ nav_order: 4
     </div>
 </div>
 <div class="caption">
-    I was attempting to draw all the Ascension moments most of them looked pretty crap, Saint's one however was decent.
+    I was attempting to draw all the Ascension moments most of them looked pretty bad, Saint's one however was decent.
 </div>
 
 <div class="row">
@@ -79,6 +79,7 @@ nav_order: 4
     Mamino's eyes just got ripped out I guess, I should of lessened the outline a bit though.
 </div>
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/guardian.jpg" title="Rain World guardian void sea" class="img-fluid rounded z-depth-1" %}
@@ -89,7 +90,24 @@ nav_order: 4
 </div>
 
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mamino2.jpg" title="Rain World OC mamino" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Mamino jumping the gap to Flowing Vines superstucture, this took me an unholy amount of time for the quality that it is at.
+</div>
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/maminoRise.jpg" title="Rain World OC mamino" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Did this a while back and I thought it didn't look horrible, I do have a series of Mamino paintings but since this is quite outdated I have put it at the bottom (the paintings are in time order, bottom being oldest, top being newest.) The time this is set is very late in the series.
+</div>
 
 
 
