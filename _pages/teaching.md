@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 
-div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/limboEye.jpg" title="Mossy Stone art limbo eye" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -19,7 +19,7 @@ div class="row">
 
 
 
-div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/limboCreature2.jpg" title="Mossy Stone art limbo creature" class="img-fluid rounded z-depth-1" %}
     </div>
