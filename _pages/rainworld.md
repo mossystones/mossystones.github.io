@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /rainworld/
 title: Rain World
 description: Digital art inspired by the Rain World game
 nav: true
