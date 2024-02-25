@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /people/
+permalink: /nondigital/
 title: Non Digital Art
 description: Stuff on paper
 nav: true
