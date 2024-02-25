@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: Non Digital Art
-description: Non digital art
+description: Stuff on paper
 nav: true
 nav_order: 7
 
