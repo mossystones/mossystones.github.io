@@ -2,7 +2,7 @@
 layout: page
 permalink: /other/
 title: Other Stuff
-description: Materials for courses you taught. Replace this text with your description.
+description: Other stuff that doesn't fit in any categories.
 nav: true
 nav_order: 8
 ---
