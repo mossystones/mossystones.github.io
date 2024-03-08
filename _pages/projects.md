@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Rain World Art
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Digital art inspired by the Rain World game
 nav: true
 nav_order: 3
 display_categories: 
