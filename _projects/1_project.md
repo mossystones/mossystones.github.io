@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rain World
-description: Digital art inspired by the Rain World game
+description: 
 importance: 1
 category: fun
 img: assets/img/RainWorldLogo.jpg
