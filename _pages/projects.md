@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rain World Art
+title: Rain World
 permalink: /projects/
 description: Digital art inspired by the Rain World game
 nav: true
