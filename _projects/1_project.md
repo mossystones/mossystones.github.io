@@ -4,6 +4,7 @@ title: Rain World
 description: Digital art inspired by the Rain World game
 importance: 1
 category: fun
+img: assets/img/RainWorldLogo.jpg
 related_publications: false
 ---
 
