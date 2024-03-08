@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rain World Art
+title: Rain World 
 description: 
 importance: 1
 category: fun
