@@ -3,7 +3,7 @@ layout: page
 permalink: /rainworld/
 title: Rain World
 description: Digital art inspired by the Rain World game
-nav: true
+nav: false
 nav_order: 4
 ---
 
