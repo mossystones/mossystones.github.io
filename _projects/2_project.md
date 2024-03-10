@@ -5,7 +5,7 @@ description:
 img: assets/img/RainWorldArtMonth.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 Heres all of the art I have done for Rain World Art Month 2024! 
 Note: I may not do every day or post every day. I was also sick for quite a while.
