@@ -39,3 +39,12 @@ nav_order: 8
     I wanted to try out using light to differentiate the background to the foreground. 
 </div>
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/sketchDump1.jpg" title="Mossystone art rain world cult of the lamb doodles" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   I have acquired krita... this is just a chaotic painting dump that has accumulated into this.
+</div>
